@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hemanth333
 - 👀 I’m interested in Data Science and Backend
 - 🌱 I’m currently learning SpringBoot, Deeplearning, Golang
-- 💞️ I’m looking to collaborate on opensource projects using Deeplearning and Spring boot
+- 💞️ I’m looking to collaborate on opensource projects using Deeplearning,Machine learning and Spring boot
 - 📫 How to reach me rudrhemanth99@gmail.com
 
 <!---
